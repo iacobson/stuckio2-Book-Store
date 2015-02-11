@@ -1,4 +1,12 @@
-p#notice = notice
+.row
+  .col-md-6
+    = image_tag "rails4.jpg", class: "img-responsive"
+  .col-md-6
+    // inline text and ruby with #{}
+    h3 #{@book.name} by #{@book.author}
+    p.justify = @book.description
+    // convert price to float in order to eliminate the rounding
+    h4 $#{@book.price.to_f / 100}  
 
 p
   strong Name:
