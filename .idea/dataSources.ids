@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails stuk_io_2-Book_Marketplace: development" uuid="b5be66fc-55d2-489e-8564-47d8c064e7ec">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails stuk_io_2-Book_Marketplace: test" uuid="8f6de57b-bbf0-4b6a-98f2-d2b2e03ee042">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails stuk_io_2-Book_Marketplace: production" uuid="156dcc81-2922-419c-aa0c-52e99701d4b3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

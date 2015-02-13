@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails stuk_io_2-Book_Marketplace: development" uuid="b5be66fc-55d2-489e-8564-47d8c064e7ec">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails stuk_io_2-Book_Marketplace: test" uuid="8f6de57b-bbf0-4b6a-98f2-d2b2e03ee042">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails stuk_io_2-Book_Marketplace: production" uuid="156dcc81-2922-419c-aa0c-52e99701d4b3">
+      <first-sync>true</first-sync>
+      <user-name>stuk_io_2-Book_Marketplace</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dffedfffdfe1dff5dfe3dfe5dff5df98df87dfe8dfe5dfe5dfe1dff5dfe7dfebdff8dfe1dfefdffedffadfe6dfebdfe9dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>

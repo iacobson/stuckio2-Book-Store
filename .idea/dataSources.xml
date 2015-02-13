@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3432990276">
+    <data-source source="LOCAL" name="Rails stuk_io_2-Book_Marketplace: development" uuid="b5be66fc-55d2-489e-8564-47d8c064e7ec">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stuk_io_2-Book_Marketplace_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails stuk_io_2-Book_Marketplace: test" uuid="8f6de57b-bbf0-4b6a-98f2-d2b2e03ee042">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stuk_io_2-Book_Marketplace_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails stuk_io_2-Book_Marketplace: production" uuid="156dcc81-2922-419c-aa0c-52e99701d4b3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:stuk_io_2-Book_Marketplace_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
