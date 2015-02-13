@@ -19,6 +19,7 @@ class BooksController < ApplicationController
   end
 
   def edit
+    authorize! :manage, @book
   end
 
   def create
