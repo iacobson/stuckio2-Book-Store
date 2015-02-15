@@ -8,5 +8,14 @@ html
 
   body
     = render "layouts/header"
+
+
+
     .container
+      // enable flash messages
+      - flash.each do |type, message|
+        // customize flash allert with Bootstrap lasses
+        .alert.alert-info.fade-in
+          button.close data-dismiss="alert" x
+          = message
       = yield
