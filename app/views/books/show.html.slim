@@ -1,6 +1,6 @@
 .row
   .col-md-6
-    = image_tag "rails4.jpg", class: "img-responsive"
+    = image_tag @book.image.url(:original), class: "img-responsive"
   .col-md-6
     // inline text and ruby with #{}
     h3 #{@book.name} by #{@book.author}

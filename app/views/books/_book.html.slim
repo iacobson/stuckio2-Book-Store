@@ -3,7 +3,7 @@
   .thumbnail
     // all tags inside the "do" will have the link assigned
     = link_to book_path(book) do
-      = image_tag "rails4.jpg", class: "img-responsive"
+      = image_tag book.image.url(:original), class: "img-responsive"
       .caption
         p
           strong = book.name

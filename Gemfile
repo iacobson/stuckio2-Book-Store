@@ -50,3 +50,5 @@ gem 'simple_form'   # always install when working with forms
 gem 'devise'
 gem 'cancan'
 gem 'paperclip'
+gem 'dotenv-rails', group: :development
+gem 'aws-sdk', '< 2.0'
